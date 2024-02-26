@@ -1,8 +1,8 @@
 // @ts-check
 
 const config = {
-  endpoint: "https://neesharma-nosql.documents.azure.com:443/",
-  key: "GBiOuE2J4SEfd8eJMH8IgjEyPipD9vWiXUbm9F9niEAve5Fkz1l836YpEiixY8GiDAnc88NWK3CZACDbJv1Qyw==",
+  endpoint: "https://neesharma-no-sql.documents-staging.windows-ppe.net:443/",
+  key: "LGR54zEVvnl1yH5IyZn94ClUUMTXDX95tHnszWPbWohG6dOcZmvrCFPZSy0vSBPDYuTQiX23bkSLACDbK4pOcw==",
   databaseId: "Tasks",
   containerId: "Items",
   partitionKey: { kind: "Hash", paths: ["/category"] }
